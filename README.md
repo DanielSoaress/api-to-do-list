@@ -2,7 +2,7 @@
 
 ## 💻 Projeto
 
-Aplicação WebService Rest com intuito de medir meu conhecimento do Laravel com CRUD.
+Aplicação WebService Rest com intuito de medir meu conhecimento do Laravel.
 
 ## 🚀 Tecnologias
 
